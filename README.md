@@ -5,7 +5,6 @@ dummy repository for GitHub API testing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Purus gravida quis blandit turpis
-cursus in hac. Duis tristique sollicitudin nibh sit amet commodo. Tincidunt
 nunc pulvinar sapien et ligula ullamcorper. Diam vel quam elementum pulvinar.
 Id faucibus nisl tincidunt eget nullam non nisi. Nisi est sit amet facilisis
 magna etiam. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
@@ -18,7 +17,7 @@ consectetur.
 Sollicitudin ac orci phasellus egestas tellus. Amet commodo nulla facilisi
 nullam vehicula ipsum a arcu cursus. Vitae congue eu consequat ac felis donec.
 Sit amet risus nullam eget felis. Massa tincidunt dui ut ornare lectus sit
-amet. Amet justo donec enim diam vulputate ut pharetra. Eu volutpat odio
+amet. Amet justo donec enim diam ut pharetra. Eu volutpat odio
 facilisis mauris sit amet. Urna nunc id cursus metus aliquam eleifend mi in
 nulla. Id nibh tortor id aliquet. Arcu cursus vitae congue mauris rhoncus
 aenean vel elit scelerisque. Ut tortor pretium viverra suspendisse potenti
@@ -57,6 +56,7 @@ dictum. Lectus nulla at volutpat diam ut. Lectus proin nibh nisl condimentum.
 Libero justo laoreet sit amet cursus sit amet dictum. Sollicitudin aliquam
 ultrices sagittis orci a. Sit amet venenatis urna cursus. Nunc scelerisque
 viverra mauris in aliquam sem fringilla. Vitae justo eget magna fermentum
+facilisis mauris sit amet. Urna nunc id cursus metus aliquam eleifend mi in
 iaculis. Fermentum et sollicitudin ac orci phasellus egestas tellus. Tempor nec
 feugiat nisl pretium. Donec ac odio tempor orci dapibus ultrices in iaculis.
 Justo donec enim diam vulputate ut pharetra sit. Luctus venenatis lectus magna
